@@ -22,9 +22,8 @@
         <!-- include google analytical code -->
 </head>
 <body><br><br>
-<center>    
-      <span style="color:#fff;font-size:24px;text-align:center;">Responsive Bootstrap Pricing Table</span><br>
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- First Add --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3256637139560604" data-ad-slot="7111527177" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<center> 
+      <span style="color:#fff;font-size:24px;text-align:center;">Responsive Bootstrap Pricing Table</span>
       </center><br><br>
        <!-- PRICING TABLE STYLE 1-->
         <div class="container">
